@@ -1,0 +1,7 @@
+server:
+  name: "Server Name"
+  port: 8080
+  endpoints:
+    - name: "List products"
+      path: "/products"
+      method: "POST"
